@@ -52,7 +52,6 @@ public class HomeActivity extends AppCompatActivity {
     private TextView totalSumResult;
 
     // Global Variable
-
     protected String type;
     protected int amount;
     protected String note;
